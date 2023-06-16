@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27348eaf85440be41b00dd3f734c6252, type: 3}
+  m_Name: Bullet Setting
+  m_EditorClassIdentifier: 
+  <audio_clip>k__BackingField: {fileID: 8300000, guid: 3848b7f38dde13e48ab721ba77cfd058, type: 3}
+  <move_speed>k__BackingField: 5
+  <life_time>k__BackingField: 2
